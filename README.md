@@ -25,16 +25,12 @@
 - 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **JavaScript**
 - 📝 Checkout my <a href="https://docs.google.com/document/d/1w5tPgGSbINlltlHfssNi9uNamFmGahMrIWjPkLIHMkk/edit?usp=sharing">Resume</a>.
 
-#### My Current Stack
-
-<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/postgresql-original.svg" alt="postgress"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
-
 #### Development Stuffs:
 
 <b>⚡ Github Stats</b>
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudiptob2&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptob2&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=berlisuharmanto&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berlisuharmanto&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 <b>&#128200; Competitive Programming</b>
