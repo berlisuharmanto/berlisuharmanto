@@ -1,4 +1,4 @@
-### Hi there 👋 I'm University Student in Jakarta
+### Hi there 👋 I'm Last Year University Student in Jakarta
 
 <p align="left">
   <a href="https://github.com/berlisuharmanto?tab=followers">
