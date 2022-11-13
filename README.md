@@ -23,7 +23,7 @@
 - 🌍 I'm mostly active within the **API Development**
 - 🌱 Learning all about **API Development**
 - 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **JavaScript**
-- 📝 Checkout my [Resume]((https://docs.google.com/document/d/1w5tPgGSbINlltlHfssNi9uNamFmGahMrIWjPkLIHMkk/edit?usp=sharing)).
+- 📝 Checkout my <a href="https://docs.google.com/document/d/1w5tPgGSbINlltlHfssNi9uNamFmGahMrIWjPkLIHMkk/edit?usp=sharing">Resume</a>.
 
 #### My Current Stack
 
