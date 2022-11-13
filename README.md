@@ -1,16 +1,16 @@
 ### Hi there 👋 I'm University Student in Jakarta
 
 <p align="left">
-  <a href="https://leetcode.com/sudiptob2/">
+  <a href="https://leetcode.com/berlisuharmanto/">
     <img src="https://cp-logo.vercel.app/leetcode/berlisuharmanto" alt="Leet code rating" />
   </a>
-  <a href="https://codeforces.com/profile/sudipto.me">
+  <a href="https://codeforces.com/profile/berlisuharmanto.me">
     <img src="https://raw.githubusercontent.com/berlisuharmanto/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
-  <a href="https://github.com/sudiptob2?tab=followers">
+  <a href="https://github.com/berlisuharmanto?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/berlisuharmanto?color=green&logo=github">
   </a>
-  <a href="https://github.com/sudiptob2/">
+  <a href="https://github.com/berlisuharmanto/">
     <img src="https://komarev.com/ghpvc/?username=berlisuharmanto" alt="visitors" />
   </a>
 
