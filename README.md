@@ -29,7 +29,7 @@
 #### Connect With Me
 
 <p left="center">
-<a href="https://www.linkedin.com/in/berlisuharmanto/">
+<a href="https://www.linkedin.com/in/berlisuharmanto/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a>
 <a href="mailto:berli.suharmanto88@gmail.com">
