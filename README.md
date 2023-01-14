@@ -13,7 +13,7 @@
 
 - 🏢 I'm currently working at **CENTRAL AI**
 - ⚙️ I use daily: `.py`, `.js`, `.css`
-- 🌍 I'm mostly active within the **Node JS**
+- 🌍 I'm mostly active within the **Node JS & Data**
 - 🌱 Learning all about **API Development**
 - 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **JavaScript**
 - 📝 Checkout my <a href="https://docs.google.com/document/d/1w5tPgGSbINlltlHfssNi9uNamFmGahMrIWjPkLIHMkk/edit?usp=sharing">Resume</a>.
