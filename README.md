@@ -11,7 +11,7 @@
 
 #### Bio
 
-- 🏢 I'm currently working at **CENTRAL AI**
+- 🏢 I'm currently working at **NUSANTARA INFRASTRUCTURE**
 - ⚙️ I use daily: `.py`, `.js`, `.css`
 - 🌍 I'm mostly active within the **Node JS & Data**
 - 🌱 Learning all about **API Development**
