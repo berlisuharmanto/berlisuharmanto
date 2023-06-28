@@ -12,10 +12,10 @@
 #### Bio
 
 - 🏢 I'm currently working at **NUSANTARA INFRASTRUCTURE**
-- ⚙️ I use daily: `.py`, `.js`, `.css`
-- 🌍 I'm mostly active within the **Node JS & Data**
+- ⚙️ I use daily: `.py`, `.js`, `.css`, `.php`
+- 🌍 I'm mostly active within the **Node JS & Laravel PHP**
 - 🌱 Learning all about **API Development**
-- 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **JavaScript**
+- 💬 Ping me about **Laravel**, **Python**, **Docker**, **RestAPIs**, **JavaScript**
 - 📝 Checkout my <a href="https://docs.google.com/document/d/1w5tPgGSbINlltlHfssNi9uNamFmGahMrIWjPkLIHMkk/edit?usp=sharing">Resume</a>.
 
 #### Development Stuffs:
