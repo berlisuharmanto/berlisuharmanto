@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Last Year University Student in Jakarta
+### Hi there 👋 I'm  a Programmer
 
 <p align="left">
   <a href="https://github.com/berlisuharmanto?tab=followers">
@@ -11,7 +11,7 @@
 
 #### Bio
 
-- 🏢 I'm currently working at **NUSANTARA INFRASTRUCTURE**
+- 🏢 I'm currently open to work
 - ⚙️ I use daily: `.py`, `.js`, `.css`, `.php`
 - 🌍 I'm mostly active within the **Node JS & Laravel PHP**
 - 🌱 Learning all about **API Development**
