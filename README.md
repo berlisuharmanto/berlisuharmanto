@@ -17,6 +17,7 @@
 - 🌱 Learning all about **API Development**
 - 💬 Ping me about **Laravel**, **Python**, **Docker**, **RestAPIs**, **JavaScript**
 - 📝 Checkout my <a href="https://docs.google.com/document/d/1w5tPgGSbINlltlHfssNi9uNamFmGahMrIWjPkLIHMkk/edit?usp=sharing">Resume</a>.
+- Currently tried to learn C++ (again)
 
 #### Development Stuffs:
 
