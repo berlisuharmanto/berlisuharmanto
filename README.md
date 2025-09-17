@@ -23,7 +23,7 @@
 
 <b>⚡ Github Stats</b>
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=berlisuharmanto&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=berlisuharmanto&layout=compact&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berlisuharmanto&show_icons=true&hide_border=true&layout=compact&theme=tokyonight"/>
 </p>
 
